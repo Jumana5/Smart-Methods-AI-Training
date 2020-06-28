@@ -1,5 +1,7 @@
-1- Installing Virtualbox
-2- Installing Ubunto on VB
-3- Installing ROS on Ubuntu
-4- Installing Python
-5- Installing OpenCV
+
+  <h2>Installing Virtualbox on Windows 10</h2>
+  <h2>Installing Ubunto on VB</h2>
+  <h2>Installing ROS on Ubuntu</h2>
+  <h2>Installing Python</h2>
+  <h2>Installing OpenCV</h2>
+
