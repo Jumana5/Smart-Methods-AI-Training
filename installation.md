@@ -24,4 +24,12 @@
   In order to write the code in a syntax friendly environment, we need to download an IDE (Interface Development Environment). Pycharm is one of the top IDEs for Python development. So to install it in UBuntu, type the following line in the terminal: 
   <h4><i>sudo snap install pycharm-community --classic</i></h4>
   </p>
-  
+  <h2>Installing GitHub Desktop on Ubunto</h2>
+<p>
+  Install GitHub .snap package from <a "href=https://github.com/shiftkey/desktop/releases/tag/release-2.0.4-linux1">Here</a>
+  Then type in the terminal: 
+  <h4>snap install ~/Downloads/GitHubDesktop-linux-2.0.4-linux1.snap --classic --dangerous</h4>
+  Then install git in the system
+  <h4>sudo-apt install git</h4>
+  Last but not least, if you are using a cloned project in pycharm, you need to configure the Version Control settings.
+</p>
