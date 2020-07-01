@@ -1,9 +1,16 @@
 
   <h2>Installing Virtualbox on Windows 10</h2>
-   <h4><i></i></h4>
+  A virtualbox (VB) gives you the ability to install several operating systems (OS) in your device. You need to download the latest version that is compatible with your device and it setup. [Download Link.](https://www.oracle.com/virtualization/technologies/vm/virtualbox.html)
+
 
   <h2>Installing Ubunto on VB</h2>
+  Ubunto is the operating system that we will be using, it is linux based and you can download the Ubunto Desktop 20.04 from [here.](https://ubuntu.com/#download) Then we open the virtualbox,  choose new and type Ubunto. We will refer to the OS file that we just downloaded in the installation steps.
+ I followed the steps from [this website](https://brb.nci.nih.gov/seqtools/installUbuntu.html) and have Ubunto running as showen in the picture below:  
+ <iframe src="https://drive.google.com/file/d/1KaQG_cMFM1chD-75gIipnS1L0CXTO9tG/preview" width="640" height="480"></iframe>
+
   <h2>Installing ROS on Ubuntu</h2>
+  Following the steps from [this Udemy Course.](https://www.udemy.com/course/ros-basics-program-robots/learn/lecture/8892584#overview) , I installed the ROS Noetic which is the version that is  compatible with Ubunto 20.04. 
+  The refernce to the installation steps is [here.](http://wiki.ros.org/noetic/Installation/Ubuntu) 
   <h4><i></i></h4>
   <h2>Installing Python</h2>
   <p> Checking if python in the system by typing 
@@ -33,3 +40,4 @@
   <h4>sudo-apt install git</h4>
   Last but not least, if you are using a cloned project in pycharm, you need to configure the Version Control settings.
 </p>
+
